@@ -20,6 +20,9 @@ body
     color: chocolate;
 }
 #cabecera{
-    color:crimson;
+    background:#33A;
+    color: white;
     border: 1px solid #333;
+    margin: 0;
+    padding: 0;
 }
