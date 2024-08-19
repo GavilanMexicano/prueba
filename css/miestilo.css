@@ -19,3 +19,7 @@ body
     font-size: 14px;
     color: chocolate;
 }
+#cabecera{
+    color:crimson;
+    border: 1px solid #333;
+}
